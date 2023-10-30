@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1593135302 source:c:\users\moukhtar\desktop\projet c\gestionarticle\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	"mabiblio.h"
+
+1593120684 c:\users\moukhtar\desktop\projet c\gestionarticle\mabiblio.h
+
+1593306966 source:c:\users\moukhtar\desktop\mini projet programmation\gestionarticle\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	"mabiblio.h"
+
+1594244613 c:\users\moukhtar\desktop\mini projet programmation\gestionarticle\mabiblio.h
+
